@@ -1,0 +1,13 @@
+body{
+    font: sans-serif;
+color: black;
+background: aqua;
+font-size: 30px;
+margin: 0;
+}
+
+h1{
+    font-color: white;
+    background-color: aqua;
+    size: 50px;
+}
